@@ -11,8 +11,7 @@ Here is a video project where I entirely handled the editing, post-production, a
 * Managed the entire editing process from raw footage to the final delivery.
 * Designed a high-retention and engaging rhythm tailored for the target audience.
 * Created custom animations, auto-captions, and visual cues to highlight key mentoring concepts.
-
 ---
-👉 **Click the image below to watch the full project:**
+👉 **Click the link below to watch the full project:**
 
-[![Watch my CapCut editing project](https://youtu.be/XIyLIeCgM3U)
+🔗 [Watch my Video Editing Project on YouTube]([https://youtube.com])
