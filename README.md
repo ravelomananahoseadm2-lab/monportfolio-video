@@ -14,4 +14,4 @@ Here is a video project where I entirely handled the editing, post-production, a
 ---
 👉 **Click the link below to watch the full project:**
 
-🔗 [Watch my Video Editing Project on YouTube]([https://youtube.com])
+🔗 [Watch my Video Editing Project on YouTube](https://youtu.be/XIyLIeCgM3U)
